@@ -1,0 +1,44 @@
+h1{
+	color:#ADFF2F;
+	font-style: oblique;
+}
+h2{
+	color: #BFFF00;
+}
+h3{
+	color: #7CFC00;
+	 font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h5{
+	color: #008000;
+	font-size: 35px;
+}
+h4{
+	color: #2E8B57;
+	font-size: 35px;
+}
+body {
+	background-color:#4E5452;
+}
+p1{
+	color: #5D76CB;
+	
+	font-size: 20px;
+}
+ol{
+	color: #29AB87;
+	font-size: 20px;
+	text-decoration: initial;
+}
+p{
+	color: #009A63;
+	font-size: 23px;
+}
+strong{
+	color: #5D76CB;
+}
+ul{
+	color: #007FFF;
+	font-size: 22px;
+	 font-style: "Arial Black";
+}
