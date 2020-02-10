@@ -20,6 +20,14 @@ h4{
 body {
 	background-color:#4E5452;
 }
+
+
+p:first-letter {
+  font-size: 50px;
+}
+
+
+
 p1{
 	color: #5D76CB;
 	
@@ -41,4 +49,18 @@ ul{
 	color: #007FFF;
 	font-size: 22px;
 	 font-style: "Arial Black";
+}
+a:link {
+    text-decoration: none;
+    color: #0000CC;
+}
+a:visited {
+    text-decoration: none;
+    color: #0000CC;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    text-decoration: underline;
 }
